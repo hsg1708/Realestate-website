@@ -17,7 +17,7 @@ The system was successfully developed and implemented using a combination of HTM
 * Set up the MySQL database by importing the provided SQL schema and data files:
   * mysql -u your_username -p your_database < database/schema.sql
   * mysql -u your_username -p your_database < database/data.sql
-*Modify the database connection configuration in the config.php file to match your MySQL settings:
+* Modify the database connection configuration in the config.php file to match your MySQL settings:
   * define('DB_SERVER', 'localhost');
   * define('DB_USERNAME', 'your_username');
   * define('DB_PASSWORD', 'your_password');
