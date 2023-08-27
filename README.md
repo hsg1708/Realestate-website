@@ -22,8 +22,7 @@ The system was successfully developed and implemented using a combination of HTM
   * define('DB_USERNAME', 'your_username');
   * define('DB_PASSWORD', 'your_password');
   * define('DB_DATABASE', 'your_database');
-* Launch the Real Estate Management System by accessing its URL through a web browser:
-  * http://localhost/real-estate-management/
+* Launch the Real Estate Management System.
 
 ### How to Use
 * Access the system using the installation steps above.
